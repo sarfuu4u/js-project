@@ -12,7 +12,9 @@ span{
     border: solid rgb(253, 214, 164) 2px;
     display: inline-block;
 }
-
+.button:hover{
+    cursor: pointer;
+}
 #Grey{
     background-color: gray;
 }

@@ -41,3 +41,7 @@ button {
     margin-top: 25px;
     margin-bottom: 25px;
 }
+button:hover{
+    cursor: pointer;
+    background-color: grey;
+}
