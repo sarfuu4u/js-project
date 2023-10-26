@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+h2{
+    font-size: 40px;
+    color: rgb(253, 214, 164);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(253, 214, 164);
+    color: rgb(3, 2, 2);
+    height: 70px;
+    width: 250px;
+    font-size: 40px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
